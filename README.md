@@ -1,6 +1,6 @@
 # PC-BangStudio Launcher
 
-For using [`pcbangstudio`](http://enjoytools.net/xe/board_vngc57/8978)
+For using [`pcbangstudio`](https://github.com/edp1096/pcbangstudio)
 
 ## Build
 ```powershell
