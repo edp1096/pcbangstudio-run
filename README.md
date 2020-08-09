@@ -1,0 +1,11 @@
+# PC-BangStudio Launcher
+
+For using [`pcbangstudio`](http://enjoytools.net/xe/board_vngc57/8978)
+
+## Build
+```powershell
+# go get github.com/akavel/rsrc
+bin/rsrc -arch="amd64" -manifest run.manifest -ico="icons/browser.ico" -o rsrc.syso
+
+go build -ldflags="-H windowsgui"
+```
